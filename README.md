@@ -55,8 +55,8 @@ The project will not function correctly until these values are updated.
 
 🔮**Future Enhancements**
 
-*📡 ESP-NOW communication for faster and more reliable device-to-device networking
 *  📶 LoRa communication for longer-range transmission
+*  📡 ESP-NOW communication for faster and more reliable device-to-device networking.
 * 🌡️ Additional sensors (temperature, humidity, flame, CO, methane, etc.)
 * 📱 Mobile application for remote monitoring
 * 🔔 SMS, email, or push notifications
